@@ -1,3 +1,12 @@
 {
-  "list": []
+  "list": [],
+  "tours": [
+    {
+      "tour image": "/img/20200923_165737.jpg",
+      "name": "Liberty",
+      "length": 3,
+      "cost": "$899",
+      "description": "Down the Hudson River to New York Harbor. We get as close as federal law allows to the Statue of Liberty, and you get a spectacular view of the NYC skyline."
+    }
+  ]
 }
