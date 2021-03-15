@@ -1,5 +1,8 @@
 {
-  "videourl": "",
-  "body": "",
-  "gallery": []
+  "videourl": "https://www.test.com",
+  "body": "Lorem ipsum",
+  "gallery": [],
+  "images": [
+    "/img/9d2d3c31701324a3daedbffc070d7544.jpg"
+  ]
 }
