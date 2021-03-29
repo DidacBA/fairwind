@@ -132,6 +132,9 @@ export default {
     width: 10vw;
     top: 4.25em;
   }
+  @media (min-width: 1600px) {
+    font-size: 160px;
+  }
 }
 .contact-content-wrapper {
   width: 90vw;
